@@ -9,4 +9,4 @@
 
 
 
-Copyrights reserved to the author
+_Copyrights reserved to the owner of this project.
