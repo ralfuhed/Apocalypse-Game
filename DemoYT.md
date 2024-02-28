@@ -9,5 +9,4 @@
 
 
 
-_Copyrights reserved to the owner of this project.
-_
+_Copyrights reserved to the owner of this project._
